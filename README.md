@@ -1,6 +1,6 @@
 
 
-# h1 Heading 8-)
+# NZ - Markdown documentation
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
@@ -99,12 +99,12 @@ Sample text here...
 
 Syntax highlighting
 
-``` js
-var foo = function (bar) {
-  return bar++;
-};
+``` python3
+var = 5
+for i in range(var):
+  print(f"{i}/{var}")
 
-console.log(foo(5));
+print("end of the loop")
 ```
 
 ## Tables
